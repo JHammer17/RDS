@@ -1,0 +1,12 @@
+name: RDS
+author: JHammer
+version: 1.0
+main: de.JHammer.RDS.Main
+
+
+commands:
+ rds:
+ start:
+ vote:
+ kits:
+  aliases: [kit]

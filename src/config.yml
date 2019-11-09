@@ -1,0 +1,9 @@
+config:
+ startTimer: 60
+ bossName: "§7§lFerrum"
+ bossLive: 1000
+ sheepMaxDropSeconds: 15
+ money:
+  giveMoney: true
+  winAlive: 5
+  winDeath: 3
